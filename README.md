@@ -78,12 +78,3 @@ programming (OOP)**, **SOLID principles**, and clean software architecture.
 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-zeinali&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-zeinali&layout=compact&theme=tokyonight" alt="top langs" height="165"/>
-</p>
